@@ -1,2 +1,2 @@
-# Bank_rule
-自行整理综合的银行规则
+# Proxy_or_Direct_Rule
+自行整理综合的规则
